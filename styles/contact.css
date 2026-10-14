@@ -1,0 +1,27 @@
+.name {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 20px 0 0 0;
+}
+
+.sub {
+  font-size: 15px;
+  color: #9f9f9f;
+  font-weight: 400;
+  margin: 40px 0 8px 0;
+}
+
+.email {
+  margin: 0;
+}
+
+.contact-lable {
+  background-color: #F7F7F7;
+  border-radius: 2px;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+.nav-list:hover .contact-lable {
+  background-color: transparent;
+}
